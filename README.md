@@ -6,18 +6,22 @@ This project is to show the ability to use APIs to Visualize Weather Data.
 I am creating an interactive app that allows customers to choose their temperature preferences. The cities will get filtered to match the temperature preference of the imaginary customer, and the outcomes will be showing the route between the chosen cities, a marker for each city showing the nearest hotel, the country, the weather condition, and the temperature.
 The project consists of three folders which uploaded to the repository as follows:
 ### The Weather_Database folder with the following:
-Click here to view the Python file: [Weather_Database](https://github.com/ALEIN3/World_Weather_Analysis/tree/main/Weather_Database)
+Click here to go to the folder: [Weather_Database](https://github.com/ALEIN3/World_Weather_Analysis/tree/main/Weather_Database)
 
 o	The Weather_Database.ipynb file
 
 o	The WeatherPy_Database.csv file
 ### The Vacation_Search folder with the following:
+Click here to go to the folder: [Vacation_Search](https://github.com/ALEIN3/World_Weather_Analysis/tree/main/Vacation_Search)
+
 o	The Vacation_Search.ipynb file
 
 o	The WeatherPy_vacation.csv file
 
 o	The WeatherPy_vacation_map.png image
 ### The Vacation_Itinerary folder with the following:
+Click here to go to the folder: [Vacation_Itinerary](https://github.com/ALEIN3/World_Weather_Analysis/tree/main/Vacation_Itinerary)
+
 o	The Vacation_Itinerary.ipynb file
 
 o	The WeatherPy_travel_map.png image
