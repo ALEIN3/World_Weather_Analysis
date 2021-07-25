@@ -1,4 +1,5 @@
 # World_Weather_Analysis
+I used for this project Anaconda,  Jupyter Notebook, Gmaps, Pandas, Python APIs and Python.
 
 ## Overview of Project
 This project is to show the ability to use APIs to Visualize Weather Data.
@@ -21,7 +22,6 @@ o	The WeatherPy_travel_map.png image
 
 o	The WeatherPy_travel_map_markers.png image
 
-I used for this project Anaconda,  Jupyter Notebook, Gmaps, Pandas, Python APIs and Python.
 ## summary
 ### Weather_Database.ipynb file the 
 I generated a set of 2,000 random latitudes and longitudes, retrieved the nearest city, and performed an API call with the OpenWeatherMap. In addition to the city weather data I gathered in this module, I used API skills to retrieve the current weather description for each city. Then, I created a new DataFrame containing the updated weather data, and I export them as CSV file
