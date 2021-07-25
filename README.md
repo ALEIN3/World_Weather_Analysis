@@ -16,7 +16,9 @@ o	The WeatherPy_vacation.csv file
 o	The WeatherPy_vacation_map.png image
 ### The Vacation_Itinerary folder with the following:
 o	The Vacation_Itinerary.ipynb file
+
 o	The WeatherPy_travel_map.png image
+
 o	The WeatherPy_travel_map_markers.png image
 
 I used for this project Anaconda,  Jupyter Notebook, Gmaps, Pandas, Python APIs and Python.
