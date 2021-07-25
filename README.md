@@ -5,7 +5,7 @@ This project is to show the ability to use APIs to Visualize Weather Data.
 I am creating an interactive app that allows customers to choose their temperature preferences. The cities will get filtered to match the temperature preference of the imaginary customer, and the outcomes will be showing the route between the chosen cities, a marker for each city showing the nearest hotel, the country, the weather condition, and the temperature.
 The project consists of three folders which uploaded to the repository as follows:
 ### The Weather_Database folder with the following:
-o	The Weather_Database.ipynb file
+o	The Weather_Database.ipynb file /
 o	The WeatherPy_Database.csv file
 ### The Vacation_Search folder with the following:
 o	The Vacation_Search.ipynb file
